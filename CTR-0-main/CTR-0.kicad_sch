@@ -10718,10 +10718,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "625f70de-9175-4c80-adfb-b9103df1f404")
 		(property "Reference" "U3"
-			(at 119.38 57.1499 0)
+			(at 100.33 47.244 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10731,8 +10730,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W25Q128JVS"
-			(at 119.38 59.6899 0)
+		(property "Value" "MX25L12872FM2I-10G"
+			(at 83.82 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12264,7 +12263,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ba6dada4-71dc-4924-abfc-367ffde6ca24")
-		(property "Reference" "Y1"
+		(property "Reference" "YABM8-12.000MHZ-B2-T"
 			(at 109.22 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12332,7 +12331,7 @@
 		(instances
 			(project "CTR-0"
 				(path "/68f715fb-4d48-413c-bc7b-70d6d6731680"
-					(reference "Y1")
+					(reference "YABM8-12.000MHZ-B2-T")
 					(unit 1)
 				)
 			)
